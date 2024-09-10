@@ -10,4 +10,4 @@
 - HTML
 - git
 - Bootstrap
-
+- Tailwindcss
